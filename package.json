@@ -1,0 +1,19 @@
+{
+  "name": "selection-algorithms",
+  "version": "1.0.0",
+  "description": "Question selection algorithms for quizzes and spaced repetitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Learn-Japanese-Discord/Selection-Algorithms.git"
+  },
+  "author": "TannerReynolds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Learn-Japanese-Discord/Selection-Algorithms/issues"
+  },
+  "homepage": "https://github.com/Learn-Japanese-Discord/Selection-Algorithms#readme"
+}
